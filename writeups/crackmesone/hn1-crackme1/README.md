@@ -37,4 +37,4 @@ Any string satisfying the constraints is accepted. Examples confirmed:
 - `ZbVf1z8AQ2`
 
 ## Proof
-See `proof.png` for a successful run.
+See [proof.png](./proof.png) for a successful run.
