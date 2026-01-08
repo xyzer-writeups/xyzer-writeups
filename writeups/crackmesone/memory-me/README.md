@@ -38,4 +38,4 @@ The output contains `flag{this_is_not_the_correct_flag}`, which strongly suggest
 
 ## Proof
 Add your successful-run screenshot here, e.g.:
-- `proof.png`
+![proof](./proof.png)
